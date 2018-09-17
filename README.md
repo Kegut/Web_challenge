@@ -1,4 +1,4 @@
-# Web_challenge
+# Wordpress_challenge
 
 The content of this post is the Wordpress challenge
 
